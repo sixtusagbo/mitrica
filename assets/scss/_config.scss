@@ -1,0 +1,11 @@
+$dark-color: #242424;
+$white-color: #fff;
+$light-grey: #f5f5f5;
+$grey-color: #454545;
+$extra-light-grey: #ccc;
+$primary-lemon: #ecff78;
+
+@mixin section-header-defaults() {
+  color: $dark-color;
+  margin-bottom: 1em;
+}

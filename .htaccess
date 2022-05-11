@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c | rewrite_module>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^([^\.]+)$ $1.php [NC,L]
+</IfModule>
+
+ <IfModule mod_headers.c>
+   Header set Access-Control-Allow-Origin "*"
+ </IfModule>

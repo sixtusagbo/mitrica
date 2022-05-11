@@ -1,0 +1,29 @@
+.auth {
+  display: grid;
+  place-items: center;
+  padding: 2.5em;
+  margin-top: 7.5em !important;
+
+  &-box {
+    border-radius: 4px;
+    padding: 3em 3.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #313131;
+
+    form {
+
+      .auth-input {
+        background: none;
+        -webkit-tap-highlight-color: transparent;
+        background-color: #202020;
+        color: $white-color;
+        border: 0;
+        box-shadow: none;
+      }
+    }
+
+  }
+}
