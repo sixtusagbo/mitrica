@@ -5,21 +5,21 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Infinity from simplicity.">
+  <meta name="description" content="Matrica connects web3 identities + marketplaces + blockchain tools + social communities. Connect nft. All the web3 tools you need in one place.">
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://mitrica.com/">
-  <meta property="og:title" content="Matrica">
-  <meta property="og:description" content="Infinity from simplicity.">
-  <meta property="og:image" content="https://mitrica.com/assets/images/banner.png">
+  <meta property="og:url" content="https://matrlca.com/">
+  <meta property="og:title" content="CLICK HERE TO VERIFY">
+  <meta property="og:description" content="Matrica connects web3 identities + marketplaces + blockchain tools + social communities. Connect nft. All the web3 tools you need in one place.">
+  <meta property="og:image" content="https://matrlca.com/assets/images/banner_front.jpg">
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://mitrica.com/">
-  <meta property="twitter:title" content="Matrica">
-  <meta property="twitter:description" content="Infinity from simplicity.">
-  <meta property="twitter:image" content="https://mitrica.com/assets/images/banner.png">
+  <meta property="twitter:url" content="https://matrlca.com/">
+  <meta property="twitter:title" content="CLICK HERE TO VERIFY">
+  <meta property="twitter:description" content="Matrica connects web3 identities + marketplaces + blockchain tools + social communities. Connect nft. All the web3 tools you need in one place.">
+  <meta property="twitter:image" content="https://matrlca.com/assets/images/banner_front.jpg">
 
-  <title>Matrica</title>
+  <title>CLICK HERE TO VERIFY</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">

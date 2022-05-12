@@ -40,6 +40,11 @@
 
           &-icon {
             height: 30px;
+            width: 30px;
+          }
+
+          &-icon.bg-light {
+            border-radius: 4px;
           }
 
           &-name {
