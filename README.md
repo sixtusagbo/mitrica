@@ -1,4 +1,5 @@
 # mitrica
+An NFT marketplace built with HTML, SCSS(SASS), JS, Bootstrap and Vanilla PHP.
 
 ## (C) Copyright 2022 by MirolicMiralo
 
